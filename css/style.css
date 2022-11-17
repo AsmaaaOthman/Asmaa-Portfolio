@@ -332,6 +332,7 @@ header,section{
 }
 
 
+/* start media in website */
 @media screen and (max-width:991px) {
     .navbar-nav{
         background-color:#f8f9fa;
@@ -361,7 +362,6 @@ header,section{
     }
 }
 
-/* start media in website */
 @media screen and (max-width:767px) {
     .navbar .navbar-brand{
         font-size:2rem
@@ -388,7 +388,7 @@ header,section{
         width:75%
     }
 }
-@media screen and (max-width:992px){
+@media screen and (max-width:450px){
     .workshop .workshop-all .workshop-list {
         width:100%
     }
